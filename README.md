@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evansroy
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java,Python and javascript
+- 🌱 I’m currently learning Java(Springboot, Android Development),Python,php and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
